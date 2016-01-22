@@ -1,2 +1,2 @@
-# one-tech-a-week
+# One technology a week
 one technology a week challenge
